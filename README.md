@@ -16,9 +16,7 @@
 - Объём тестируемых данных: **1 GiB**
 - Тестируемый диск: **C:**
   
-(img/settings.png)
- 
-Скриншот 1 - Настройки CrystalDiskMark
+![Скриншот 1 - Настройки CrystalDiskMark](img/settings.png)
 *Рисунок 1 – Настройки программы перед запуском теста*
 
 ![Скриншот 2 - Процесс выполнения теста]( <img width="477" height="338" alt="2026-06-21_21-34-57" src="https://github.com/user-attachments/assets/77e689cd-d799-4fe9-be99-70804a3a1ec0" />
