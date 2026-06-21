@@ -3,7 +3,7 @@
 
 **Цель работы:** оценить качество работы жесткого диска с помощью специальных программ (CrystalDiskMark и CrystalDiskInfo).
 
-**Оборудование и ПО:** ПК на Windows, программы CrystalDiskMark 9.0.3 и CrystalDiskInfo.
+**Оборудование и ПО:** ПК на Windows, программы CrystalDiskMark и CrystalDiskInfo.
 
 ---
 
