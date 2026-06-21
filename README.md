@@ -24,7 +24,7 @@
 
 После завершения тестирования были получены следующие результаты:
 
-![Скриншот 3 - Результаты CrystalDiskMark]( <img width="478" height="341" alt="2026-06-21_21-26-11" src="https://github.com/user-attachments/assets/cc80ebe6-bba9-4365-9a46-2f0e14698c92" />
+![Скриншот 3 - Результаты CrystalDiskMark](img/CrystalDiskMark.png
 )
 *Рисунок 3 – Финальные результаты тестирования*
 
