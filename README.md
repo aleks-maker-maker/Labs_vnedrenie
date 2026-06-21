@@ -43,7 +43,7 @@
 
 Для оценки технического состояния накопителя была запущена программа CrystalDiskInfo.
 
-![Скриншот 4 - Главное окно CrystalDiskInfo]( <img width="668" height="862" alt="2026-06-21_21-22-53" src="https://github.com/user-attachments/assets/382e8dae-3be6-4b81-8f38-cc823c549c55" />
+![Скриншот 4 - Главное окно CrystalDiskInfo](img/CrystalDiskInfo.png
 )
 *Рисунок 4 – Общая информация о диске*
 
