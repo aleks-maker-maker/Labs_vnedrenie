@@ -588,36 +588,6 @@ F10
 
 ---
 
-## 📁 Структура репозитория
-
-```text
-Lab35/
-│
-├── README.md
-│
-└── screenshots/
-    ├── 01_mc.png
-    ├── 02_tree_etc.png
-    ├── 03_info.png
-    ├── 04_fstab.png
-    ├── 05_sort.png
-    ├── 06_create_file.png
-    ├── 07_create_dir.png
-    ├── 08_copy_etc.png
-    ├── 09_move_etc.png
-    ├── 10_delete_etc.png
-    ├── 11_find_png.png
-    ├── 12_find_clock.png
-    ├── 13_symlink.png
-    ├── 14_dead_link.png
-    ├── 15_directory_sizes.png
-    ├── 16_ftp_error.png
-    ├── 17_sftp_error.png
-    └── 18_date.png
-```
-
----
-
 <div align="center">
 
 ### 🐧 GNU/Linux • Midnight Commander • Лабораторная работа №35
