@@ -72,11 +72,13 @@ ls -l
 cat file1
 cat cat
 cat Copy
+
 Результат выполнения команд:
 total 12
 -rw-r--r-- 1 abobi4 abobi4 17 Sep 9 02:27 file1
 -rw-r--r-- 1 abobi4 abobi4  0 Sep 9 02:30 cat
 -rw-r--r-- 1 abobi4 abobi4 17 Sep 9 02:31 Copy
+
 Содержимое файла file1:
 LINUX THE BEST
 Содержимое файла cat:
