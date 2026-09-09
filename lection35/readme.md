@@ -64,7 +64,7 @@ F9 → Правая панель → Tree
 
 ### 📸 Скриншот
 
-![Информационная панель](<img width="960" height="1280" alt="photo_16_2026-09-09_05-41-56" src="https://github.com/user-attachments/assets/15cf4ea7-5fbb-49b6-b0f8-2ba0d8fb362c" />
+![Информационная панель](<img width="960" height="1280" alt="photo_3_2026-09-09_05-41-56" src="https://github.com/user-attachments/assets/a9d765e5-4453-4441-be81-2bb8343539aa" />
 
 )
 
@@ -88,8 +88,8 @@ F3
 
 ### 📸 Скриншот
 
-![Просмотр файла fstab](<img width="960" height="1280" alt="photo_4_2026-09-09_05-41-56" src="https://github.com/user-attachments/assets/0d3e4147-2baf-4cec-9afc-44dfe3d17dfd" />
-)
+![Просмотр файла fstab](<img width="960" height="1280" alt="photo_4_2026-09-09_05-41-56" src="https://github.com/user-attachments/assets/f820e995-2d30-4674-8e3b-6cbf3c3961ed" />
+
 
 ---
 
@@ -103,7 +103,8 @@ F3
 
 ### 📸 Скриншот
 
-![Сортировка файлов](<img width="960" height="1280" alt="photo_9_2026-09-09_05-41-56" src="https://github.com/user-attachments/assets/46b3b320-aa80-4e2a-abfe-79ede6523783" />
+![Сортировка файлов](<img width="960" height="1280" alt="photo_22_2026-09-09_05-41-56" src="https://github.com/user-attachments/assets/6f5ca958-b989-4c96-ab3b-93cb3ec6514b" />
+
 )
 
 ---
@@ -122,7 +123,8 @@ lab35.txt
 
 ### 📸 Скриншот
 
-![Создание файла lab35.txt](<img width="960" height="1280" alt="photo_8_2026-09-09_05-41-56" src="https://github.com/user-attachments/assets/6c1fac68-2f80-4a32-86c3-17211511ddd9" />
+![Создание файла lab35.txt](<img width="960" height="1280" alt="photo_14_2026-09-09_05-41-56" src="https://github.com/user-attachments/assets/5c57dfd6-adcb-4bd2-ac22-a137f05d7e12" />
+
 )
 
 ---
@@ -169,7 +171,8 @@ Ignore all
 
 ### 📸 Скриншот
 
-![Копирование]( <img width="960" height="1280" alt="photo_13_2026-09-09_05-41-56" src="https://github.com/user-attachments/assets/71de4291-ef98-4d41-9762-4ca2fce07dc3" />)
+![Копирование](<img width="960" height="1280" alt="photo_13_2026-09-09_05-41-56" src="https://github.com/user-attachments/assets/d814afd0-855d-4866-bd83-36d3c010ee7d" />
+)
 
 
 ---
@@ -196,7 +199,8 @@ F6
 
 ### 📸 Скриншот
 
-![Перемещение каталога](<img width="960" height="1280" alt="photo_16_2026-09-09_05-41-56" src="https://github.com/user-attachments/assets/9009b3f9-5a93-422c-a7bb-7a582f679b3b" />
+![Перемещение каталога](<img width="960" height="1280" alt="photo_16_2026-09-09_05-41-56" src="https://github.com/user-attachments/assets/a889ec56-6095-429d-9d71-356113237e20" />
+
 )
 
 ---
@@ -235,7 +239,7 @@ F8
 
 ### 📸 Скриншот
 
-![Поиск PNG-файлов](<img width="960" height="1280" alt="photo_20_2026-09-09_05-41-56" src="https://github.com/user-attachments/assets/c6ed6305-8f03-4898-9d01-3d093f8997b0" />
+![Поиск PNG-файлов](<img width="960" height="1280" alt="photo_20_2026-09-09_05-41-56" src="https://github.com/user-attachments/assets/bd9df25b-3969-4810-91d1-dee7870e9452" />
 )
 
 ---
@@ -258,7 +262,8 @@ clock
 
 ### 📸 Скриншот
 
-![Поиск clock](<img width="960" height="1280" alt="photo_19_2026-09-09_05-41-56" src="https://github.com/user-attachments/assets/0f8feb6e-0eed-4a32-b444-0652ee7e11b1" />
+![Поиск clock](<img width="960" height="1280" alt="photo_19_2026-09-09_05-41-56" src="https://github.com/user-attachments/assets/36bc98c2-7a02-4dfc-97e3-3064557cc0d6" />
+
 )
 
 ---
@@ -307,7 +312,8 @@ link
 
 ### 📸 Скриншот
 
-![Неработающая символическая ссылка](<img width="960" height="1280" alt="photo_21_2026-09-09_05-41-56" src="https://github.com/user-attachments/assets/71db2c2d-41da-47c2-b24e-6d25cce15c7b" />
+![Неработающая символическая ссылка](<img width="960" height="1280" alt="photo_21_2026-09-09_05-41-56" src="https://github.com/user-attachments/assets/54a9d200-db56-4a83-ba07-a6d84d99d2af" />
+
 )
 
 ---
@@ -324,7 +330,8 @@ F9 → Команды → Размеры каталогов
 
 ### 📸 Скриншот
 
-![Размеры каталогов](<img width="960" height="1280" alt="photo_22_2026-09-09_05-41-56" src="https://github.com/user-attachments/assets/dc1d020b-d41f-4883-b513-850df2bd80a7" />
+![Размеры каталогов](<img width="960" height="1280" alt="photo_22_2026-09-09_05-41-56" src="https://github.com/user-attachments/assets/37bed7b1-df67-487d-b768-48a59b15b4bc" />
+
 )
 
 ---
@@ -348,8 +355,8 @@ mirror.yandex.ru
 
 ### 📸 Скриншот
 
-![Ошибка FTP]( <img width="960" height="1280" alt="photo_23_2026-09-09_05-41-56" src="https://github.com/user-attachments/assets/c803f68c-718a-43c5-b897-40bfa79f1a93" />
- )
+![Ошибка FTP](<img width="960" height="1280" alt="photo_23_2026-09-09_05-41-56" src="https://github.com/user-attachments/assets/ba257c42-ee73-4adf-a221-748301b59ebc" />
+)
 
 ---
 
@@ -371,7 +378,8 @@ sftp: временный сбой в разрешении имён (-3)
 
 ### 📸 Скриншот
 
-![Ошибка SFTP]( <img width="960" height="1280" alt="photo_25_2026-09-09_05-41-56" src="https://github.com/user-attachments/assets/694af487-e5b0-4555-8ca1-b2e2cd618cd3" />
+![Ошибка SFTP](<img width="960" height="1280" alt="photo_25_2026-09-09_05-41-56" src="https://github.com/user-attachments/assets/946cd9fc-1aee-4d6f-9c44-3168f33814c6" />
+
  )
 
 ---
@@ -388,8 +396,8 @@ date
 
 ### 📸 Скриншот
 
-![Результат команды date]( <img width="960" height="1280" alt="photo_24_2026-09-09_05-41-56" src="https://github.com/user-attachments/assets/fe4061fa-070f-423c-8ba4-64375bcacc84" />
- )
+![Результат команды date](<img width="960" height="1280" alt="photo_24_2026-09-09_05-41-56" src="https://github.com/user-attachments/assets/f7d39079-fc07-4ecd-9146-3bcb8a538613" />
+)
 
 ---
 
