@@ -53,7 +53,7 @@ F9 → Правая панель → Tree
 
 ### 📸 Скриншот
 
-![Дерево каталогов /etc](<img width="960" height="1280" alt="photo_2_2026-09-09_05-41-56" src="https://github.com/user-attachments/assets/0e4111da-e9c4-44a7-a39c-64bc98dd1f9c" />
+![Дерево каталогов /etc](
 )
 
 ---
