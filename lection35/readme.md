@@ -64,7 +64,8 @@ F9 → Правая панель → Tree
 
 ### 📸 Скриншот
 
-![Информационная панель](<img width="960" height="1280" alt="photo_3_2026-09-09_05-41-56" src="https://github.com/user-attachments/assets/81337a95-e9f2-4101-8b7e-d4e97270096a" />
+![Информационная панель](<img width="960" height="1280" alt="photo_16_2026-09-09_05-41-56" src="https://github.com/user-attachments/assets/15cf4ea7-5fbb-49b6-b0f8-2ba0d8fb362c" />
+
 )
 
 ---
