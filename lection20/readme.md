@@ -91,7 +91,8 @@
 
 ### 📸 Скриншот №1
 
-**Место для вставки скриншота:**
+<img width="960" height="1280" alt="photo_3_2026-09-09_03-08-28" src="https://github.com/user-attachments/assets/2869b994-7193-494f-b9d1-d9ecfe8de25d" />
+
 
 > 🖼️ **ВСТАВИТЬ СЮДА СКРИНШОТ №1**
 
