@@ -1,4 +1,4 @@
-<img width="960" height="1280" alt="photo_3_2026-09-09_05-41-56" src="https://github.com/user-attachments/assets/e0697ef2-ae07-4770-bda1-25c167d3334b" /># 🐧 Лабораторная работа №35
+# 🐧 Лабораторная работа №35
 
 ## 💻 Работа с файлами и каталогами в GNU/Linux в программе Midnight Commander
 
